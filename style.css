@@ -1,0 +1,13 @@
+body{
+background-color:#fff8dc ;
+}
+
+
+h1{
+    background-color:#b8860b ;
+}
+.grid{ display: flex; flex-wrap: wrap; justify-content: space-evenly; }
+
+.grid img{
+    border: 2px solid cyan
+}
